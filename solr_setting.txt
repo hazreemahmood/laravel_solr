@@ -1,0 +1,4 @@
+SOLR_HOST=localhost
+SOLR_PORT=8983
+SOLR_PATH=/
+SOLR_CORE=documents_core
